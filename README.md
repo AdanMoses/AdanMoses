@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdanMoses
 - 👀 I’m interested in learning more about programming and technologies.
-- 🌱 I’m currently learning JavaScript, CSS, HTML.
+- 🌱 I’m currently learning JavaScript, CSS, HTML, and Ruby.
 - 💞️ I’m looking to collaborate on any beginner's level projects.
 - 📫 How to reach me: adanmoses@pm.me
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdanMoses
-- 👀 I’m interested in learning more about programming and technologies.
-- 🌱 I’m currently learning JavaScript, CSS, HTML, and Ruby.
-- 💞️ I’m looking to collaborate on any beginner's level projects.
+- 👀 I’m working as a UX/UI Developer at e&s, a high end home appliances store in Victoria, Australia.
+- 🌱 I’m currently learning JavaScript, Ruby, and Magento, plus a LOT of CSS.
+- 💞️ I’m looking to collaborate on any beginner-mid level projects.
 - 📫 How to reach me: adanmoses@pm.me
 
 <!---
